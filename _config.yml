@@ -21,7 +21,7 @@
 title: Deborah Leem
 email: violin1208@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Companion website to Deborah Leem's PhD activities
+  PhD candidate at UCL
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://deborahleem.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 1208DL
