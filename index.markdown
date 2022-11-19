@@ -16,4 +16,6 @@ You can find the source code for my projects at [GitHub](https://github.com/Viol
 Deparmental site: [UCL Profile](https://www.ucl.ac.uk/information-studies/deborah-leem)\
 Connect with me: [LinkedIn](https://www.linkedin.com/in/deborah-l-503320154)
 
-<img src="{{site.baseurl}}/assets/images/deborah.jpg">
+.floatRight{float:right;margin-left:20px}
+
+<img src="{{site.baseurl}}/assets/images/deborah.jpg" class="floatRight">
