@@ -4,6 +4,8 @@ title: Activities
 permalink: /activities/
 ---
 
+- Blog post [From hidden to visible: how can we recognise research software?](https://www.software.ac.uk/blog/hidden-visible-how-can-we-recognise-research-software) (1 August 2023)
+- Blog post [Harnessing the Power of Code Reviews: Insights from our Digital Humanities Code Review Workshop](https://www.software.ac.uk/blog/harnessing-power-code-reviews-insights-our-digital-humanities-code-review-workshop) (20 July 2023)
 - Presented a paper at [Digital Humanities Congress 2022](https://www.dhi.ac.uk/dhc2022/), Sheffield (September 2022)
 - Winner of Code First Girls (CFG) Bug Fixing MOOC Challenge Competition, London, UK (June 2022)
 - Received a Diversity Scholarship to PyData 2022, London, UK (June 2022)
